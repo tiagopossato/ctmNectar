@@ -14,6 +14,7 @@
 #define CHANGE_SEND_TIME 13
 
 #define SEND_TIME 21
+#define SEND_READ_TIME 22
 
 #define CHANGE_OUTPUT_STATE 50
 
@@ -21,6 +22,12 @@
 
 #define INPUT_1_STATE 61
 
-#define ANALOG_VALUE 71
+#define ANALOG_VALUE 70
+
+#define TEMPERATURA 71
+
+#define UMIDADE_AR 72
+
+#define UMIDADE_SOLO 73
 
 #endif
